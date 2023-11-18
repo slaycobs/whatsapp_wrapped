@@ -16,6 +16,7 @@ class StatsPrinter:
         self.write_dict_to_file(self.chat_stats.sender_message_count, "results/sender_message_count.txt")
         self.write_dict_to_file(self.chat_stats.sender_media_count, "results/sender_media_count.txt")
         self.specific_word_stats()
+        self.name_counts()
 
     def output(self, title: str, contents: any): 
         print(title)
@@ -51,9 +52,17 @@ class StatsPrinter:
         with open("results/specific_word_stats.txt", "w") as fp:
             for word in contents:
                 word = word.strip()
-                fp.write(f"Stats for '{word}':\n")
+                fp.write(f"{word}:\n")
                 fp.write(f"Total uses: {self.chat_stats.words[word]}\n")
                 for sender in self.senders:
-                    fp.write(f"{sender} used it {self.chat_stats.wordsender_count[sender + word]} times\n")
+                    fp.write(f"{sender}: {self.chat_stats.wordsender_count[sender + word]}\n")
                 fp.write("\n")
+
+    def name_counts(self):
+        with open("results/name_counts.txt", "w") as fp:
+            fp.write(f"ben: {self.chat_stats.words['ben']}\n")
+            fp.write(f"lani: {self.chat_stats.words['lani']}\n")
+            fp.write(f"sam: {self.chat_stats.words['sam']}\n")
+            fp.write(f"dad: {self.chat_stats.words['dad']}\n")
+            fp.write(f"mum: {self.chat_stats.words['mum']}\n")
 

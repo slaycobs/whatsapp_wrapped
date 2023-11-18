@@ -13,6 +13,19 @@ class ChatStats:
     def add(self, entry: Dict) -> None: 
         d, t, sender, message = entry["date"], entry["time"], entry["sender"], entry["message"]
         words = message.split()
+        # replace people tagging phone numbers with their names
+        for i, word in enumerate(words):
+            if word == "61424994881":
+                words[i] = "lani"
+            elif word == "61426192626":
+                words[i] = "sam"
+            elif word == "61411577990":
+                words[i] = "dad"
+            elif word == "61428567518":
+                words[i] = "ben"
+            elif word == "61416844044":
+                words[i] = "mum"
+
         self.words.update(words)
         self.sender_word_count[sender] += len(words)
         self.sender_message_count[sender] += 1

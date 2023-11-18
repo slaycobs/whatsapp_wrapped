@@ -23,6 +23,8 @@ def parse_line(line: str) -> Tuple[date, time, str, str]:
     message = line[line.find(":", 20) + 2:].lower()
     # strip punctuation
     message = message.translate(str.maketrans('', '', string.punctuation))
+    message = message.replace("’", "")
+    message = message.replace("‘", "")
 
     return d, t , sender, message
 

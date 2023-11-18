@@ -1,152 +1,136 @@
-Stats for 'sam':
-Total uses: 82
-oddball used it 18 times
-flower used it 8 times
-mumzy used it 45 times
-sam used it 2 times
-childless alana used it 8 times
-
-Stats for 'ben':
-Total uses: 125
-oddball used it 18 times
-flower used it 19 times
-mumzy used it 39 times
-sam used it 34 times
-childless alana used it 15 times
-
-Stats for 'lani':
-Total uses: 74
-oddball used it 21 times
-flower used it 7 times
-mumzy used it 33 times
-sam used it 9 times
-childless alana used it 3 times
-
-Stats for 'jj':
-Total uses: 22
-oddball used it 4 times
-flower used it 0 times
-mumzy used it 16 times
-sam used it 2 times
-childless alana used it 0 times
-
-Stats for 'jeremy':
-Total uses: 0
-oddball used it 0 times
-flower used it 0 times
-mumzy used it 0 times
-sam used it 0 times
-childless alana used it 0 times
-
-Stats for 'dad':
-Total uses: 89
-oddball used it 1 times
-flower used it 5 times
-mumzy used it 46 times
-sam used it 12 times
-childless alana used it 23 times
-
-Stats for 'mum':
-Total uses: 45
-oddball used it 4 times
-flower used it 4 times
-mumzy used it 2 times
-sam used it 19 times
-childless alana used it 14 times
-
-Stats for 'bennas':
-Total uses: 0
-oddball used it 0 times
-flower used it 0 times
-mumzy used it 0 times
-sam used it 0 times
-childless alana used it 0 times
-
-Stats for 'wu':
-Total uses: 3
-oddball used it 0 times
-flower used it 0 times
-mumzy used it 3 times
-sam used it 0 times
-childless alana used it 0 times
-
-Stats for 'dolly':
-Total uses: 14
-oddball used it 0 times
-flower used it 0 times
-mumzy used it 13 times
-sam used it 0 times
-childless alana used it 0 times
-
-Stats for 'alison':
-Total uses: 5
-oddball used it 4 times
-flower used it 0 times
-mumzy used it 1 times
-sam used it 0 times
-childless alana used it 0 times
-
-Stats for 'ali':
-Total uses: 13
-oddball used it 11 times
-flower used it 0 times
-mumzy used it 2 times
-sam used it 0 times
-childless alana used it 0 times
-
-Stats for 'spam':
+spam:
 Total uses: 11
-oddball used it 2 times
-flower used it 1 times
-mumzy used it 5 times
-sam used it 3 times
-childless alana used it 0 times
+oddball: 2
+flower: 1
+mumzy: 5
+sam: 3
+childless alana: 0
 
-Stats for 'copy':
+copy:
 Total uses: 36
-oddball used it 3 times
-flower used it 16 times
-mumzy used it 4 times
-sam used it 12 times
-childless alana used it 1 times
+oddball: 3
+flower: 16
+mumzy: 4
+sam: 12
+childless alana: 1
 
-Stats for 'yes':
+yes:
 Total uses: 78
-oddball used it 8 times
-flower used it 14 times
-mumzy used it 31 times
-sam used it 12 times
-childless alana used it 13 times
+oddball: 8
+flower: 14
+mumzy: 31
+sam: 12
+childless alana: 13
 
-Stats for 'no':
+yeah:
+Total uses: 53
+oddball: 1
+flower: 12
+mumzy: 6
+sam: 21
+childless alana: 13
+
+yep:
+Total uses: 37
+oddball: 14
+flower: 5
+mumzy: 1
+sam: 9
+childless alana: 8
+
+no:
 Total uses: 176
-oddball used it 28 times
-flower used it 30 times
-mumzy used it 58 times
-sam used it 27 times
-childless alana used it 33 times
+oddball: 28
+flower: 30
+mumzy: 58
+sam: 27
+childless alana: 33
 
-Stats for 'shit':
+nah:
+Total uses: 25
+oddball: 3
+flower: 8
+mumzy: 2
+sam: 1
+childless alana: 10
+
+shit:
 Total uses: 4
-oddball used it 3 times
-flower used it 0 times
-mumzy used it 0 times
-sam used it 1 times
-childless alana used it 0 times
+oddball: 3
+flower: 0
+mumzy: 0
+sam: 1
+childless alana: 0
 
-Stats for 'fuck':
+fuck:
 Total uses: 1
-oddball used it 0 times
-flower used it 0 times
-mumzy used it 0 times
-sam used it 0 times
-childless alana used it 1 times
+oddball: 0
+flower: 0
+mumzy: 0
+sam: 0
+childless alana: 1
 
-Stats for 'dick':
+chilli:
+Total uses: 37
+oddball: 2
+flower: 7
+mumzy: 17
+sam: 6
+childless alana: 4
+
+ante:
+Total uses: 22
+oddball: 1
+flower: 2
+mumzy: 6
+sam: 0
+childless alana: 13
+
+eda:
+Total uses: 1
+oddball: 0
+flower: 0
+mumzy: 0
+sam: 1
+childless alana: 0
+
+joni:
+Total uses: 13
+oddball: 1
+flower: 1
+mumzy: 6
+sam: 5
+childless alana: 0
+
+joniche:
 Total uses: 0
-oddball used it 0 times
-flower used it 0 times
-mumzy used it 0 times
-sam used it 0 times
-childless alana used it 0 times
+oddball: 0
+flower: 0
+mumzy: 0
+sam: 0
+childless alana: 0
+
+idiot:
+Total uses: 2
+oddball: 0
+flower: 0
+mumzy: 1
+sam: 0
+childless alana: 1
+
+stupid:
+Total uses: 7
+oddball: 0
+flower: 0
+mumzy: 3
+sam: 3
+childless alana: 1
+
+poo:
+Total uses: 2
+oddball: 0
+flower: 0
+mumzy: 0
+sam: 2
+childless alana: 0
 
