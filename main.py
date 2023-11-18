@@ -60,6 +60,7 @@ def form_word_bank(contents: List[Dict]) -> ChatStats:
 def main() -> None:
     contents = read_file(FILE_NAME)
     chat_stats = form_word_bank(contents)
+    chat_stats.consolidate_messagers()
     stats_printer = StatsPrinter(chat_stats)
     stats_printer.print_stats()
 
