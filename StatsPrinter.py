@@ -8,6 +8,7 @@ class StatsPrinter:
     def __init__(self, chat_stats: ChatStats) -> None:
         self.chat_stats = chat_stats
         self.senders = chat_stats.sender_message_count.keys()
+        print("initialising stats with senders list: ", self.senders)
 
     def print_stats(self):
         self.word_counts()

@@ -1,5 +1,5 @@
-oddball: 9065
-flower: 10008
-mumzy: 12279
-sam: 8322
-childless alana: 5440
+sam: 3339
+jeremy jacobs: 3872
+a ben work: 4913
+a alison jacobs: 7072
+alana jacobs: 3035

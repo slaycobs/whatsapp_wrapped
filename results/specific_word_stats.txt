@@ -1,136 +1,144 @@
 spam:
-Total uses: 11
-oddball: 2
-flower: 1
-mumzy: 5
-sam: 3
-childless alana: 0
+Total uses: 9
+sam: 2
+jeremy jacobs: 1
+a ben work: 2
+a alison jacobs: 4
+alana jacobs: 0
 
 copy:
-Total uses: 36
-oddball: 3
-flower: 16
-mumzy: 4
-sam: 12
-childless alana: 1
+Total uses: 20
+sam: 8
+jeremy jacobs: 0
+a ben work: 8
+a alison jacobs: 3
+alana jacobs: 1
 
 yes:
-Total uses: 78
-oddball: 8
-flower: 14
-mumzy: 31
-sam: 12
-childless alana: 13
+Total uses: 44
+sam: 5
+jeremy jacobs: 5
+a ben work: 13
+a alison jacobs: 14
+alana jacobs: 7
 
 yeah:
-Total uses: 53
-oddball: 1
-flower: 12
-mumzy: 6
-sam: 21
-childless alana: 13
+Total uses: 33
+sam: 14
+jeremy jacobs: 1
+a ben work: 4
+a alison jacobs: 6
+alana jacobs: 8
 
 yep:
-Total uses: 37
-oddball: 14
-flower: 5
-mumzy: 1
-sam: 9
-childless alana: 8
+Total uses: 16
+sam: 4
+jeremy jacobs: 5
+a ben work: 1
+a alison jacobs: 0
+alana jacobs: 6
 
 no:
-Total uses: 176
-oddball: 28
-flower: 30
-mumzy: 58
-sam: 27
-childless alana: 33
+Total uses: 71
+sam: 9
+jeremy jacobs: 11
+a ben work: 8
+a alison jacobs: 30
+alana jacobs: 13
 
 nah:
-Total uses: 25
-oddball: 3
-flower: 8
-mumzy: 2
+Total uses: 14
 sam: 1
-childless alana: 10
+jeremy jacobs: 2
+a ben work: 5
+a alison jacobs: 2
+alana jacobs: 4
 
 shit:
-Total uses: 4
-oddball: 3
-flower: 0
-mumzy: 0
-sam: 1
-childless alana: 0
+Total uses: 1
+sam: 0
+jeremy jacobs: 1
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
 
 fuck:
-Total uses: 1
-oddball: 0
-flower: 0
-mumzy: 0
+Total uses: 0
 sam: 0
-childless alana: 1
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
 
 chilli:
-Total uses: 37
-oddball: 2
-flower: 7
-mumzy: 17
-sam: 6
-childless alana: 4
+Total uses: 18
+sam: 2
+jeremy jacobs: 1
+a ben work: 3
+a alison jacobs: 12
+alana jacobs: 0
 
 ante:
-Total uses: 22
-oddball: 1
-flower: 2
-mumzy: 6
+Total uses: 10
 sam: 0
-childless alana: 13
+jeremy jacobs: 0
+a ben work: 2
+a alison jacobs: 4
+alana jacobs: 4
 
 eda:
-Total uses: 1
-oddball: 0
-flower: 0
-mumzy: 0
-sam: 1
-childless alana: 0
+Total uses: 3
+sam: 2
+jeremy jacobs: 0
+a ben work: 1
+a alison jacobs: 0
+alana jacobs: 0
 
 joni:
-Total uses: 13
-oddball: 1
-flower: 1
-mumzy: 6
-sam: 5
-childless alana: 0
+Total uses: 5
+sam: 0
+jeremy jacobs: 1
+a ben work: 1
+a alison jacobs: 3
+alana jacobs: 0
 
 joniche:
 Total uses: 0
-oddball: 0
-flower: 0
-mumzy: 0
 sam: 0
-childless alana: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
 
 idiot:
-Total uses: 2
-oddball: 0
-flower: 0
-mumzy: 1
+Total uses: 0
 sam: 0
-childless alana: 1
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
 
 stupid:
-Total uses: 7
-oddball: 0
-flower: 0
-mumzy: 3
-sam: 3
-childless alana: 1
+Total uses: 2
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 1
+alana jacobs: 1
 
 poo:
-Total uses: 2
-oddball: 0
-flower: 0
-mumzy: 0
-sam: 2
-childless alana: 0
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+mags:
+Total uses: 7
+sam: 0
+jeremy jacobs: 1
+a ben work: 0
+a alison jacobs: 5
+alana jacobs: 1
 
