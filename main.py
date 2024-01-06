@@ -2,10 +2,20 @@ import sys
 import os
 import pandas as pd
 from typing import List, Dict, Tuple
+from time import sleep
 from datetime import date, time
 from ChatStats import ChatStats
 from StatsPrinter import StatsPrinter
 import string
+
+# TO DO NEXT YEAR
+"""
+- ordering counts of specific words in order of most said so that its already formatted
+- renaming contacts so they're simpler to put in the presso
+- ability to search for interesting things by searching for ANY words said above X times and the name of the person who said it
+- ability to search for things said the most by X person that were said more than X times
+
+"""
 
 # make sure to remove the first three default messages from the exported file
 FILE_NAME = "chat.txt"
@@ -72,9 +82,8 @@ def read_file(filename: str) -> List[Dict]:
             # otherwise, extend the most recently added message
             else:
                 if len(parsed_contents) > 0:
-                    parsed_contents[-1]["message"] += line                
+                    parsed_contents[-1]["message"] += line    
     print("total messages: ", len(parsed_contents))
-    print(parsed_contents)
     return parsed_contents
 
 def form_word_bank(contents: List[Dict]) -> ChatStats:

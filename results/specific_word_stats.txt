@@ -94,6 +94,14 @@ a ben work: 1
 a alison jacobs: 0
 alana jacobs: 0
 
+amber:
+Total uses: 2
+sam: 0
+jeremy jacobs: 1
+a ben work: 1
+a alison jacobs: 0
+alana jacobs: 0
+
 joni:
 Total uses: 5
 sam: 0
@@ -141,4 +149,428 @@ jeremy jacobs: 1
 a ben work: 0
 a alison jacobs: 5
 alana jacobs: 1
+
+breakfast:
+Total uses: 12
+sam: 0
+jeremy jacobs: 1
+a ben work: 3
+a alison jacobs: 1
+alana jacobs: 7
+
+dick:
+Total uses: 1
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 1
+alana jacobs: 0
+
+cunt:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+arse:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+arsehole:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+ass:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+stoopid:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+ugh:
+Total uses: 1
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 1
+alana jacobs: 0
+
+hate:
+Total uses: 1
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 1
+alana jacobs: 0
+
+work:
+Total uses: 42
+sam: 6
+jeremy jacobs: 15
+a ben work: 9
+a alison jacobs: 6
+alana jacobs: 6
+
+job:
+Total uses: 10
+sam: 0
+jeremy jacobs: 4
+a ben work: 2
+a alison jacobs: 2
+alana jacobs: 2
+
+law:
+Total uses: 2
+sam: 0
+jeremy jacobs: 1
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 1
+
+lawyer:
+Total uses: 7
+sam: 0
+jeremy jacobs: 0
+a ben work: 2
+a alison jacobs: 1
+alana jacobs: 4
+
+aldi:
+Total uses: 21
+sam: 3
+jeremy jacobs: 5
+a ben work: 4
+a alison jacobs: 8
+alana jacobs: 1
+
+shopping:
+Total uses: 2
+sam: 0
+jeremy jacobs: 0
+a ben work: 1
+a alison jacobs: 1
+alana jacobs: 0
+
+groceries:
+Total uses: 1
+sam: 1
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+ronaldo:
+Total uses: 2
+sam: 0
+jeremy jacobs: 0
+a ben work: 1
+a alison jacobs: 0
+alana jacobs: 1
+
+dollypartonment:
+Total uses: 3
+sam: 0
+jeremy jacobs: 0
+a ben work: 1
+a alison jacobs: 0
+alana jacobs: 2
+
+benpartment:
+Total uses: 5
+sam: 0
+jeremy jacobs: 0
+a ben work: 2
+a alison jacobs: 1
+alana jacobs: 2
+
+palace:
+Total uses: 4
+sam: 2
+jeremy jacobs: 0
+a ben work: 1
+a alison jacobs: 0
+alana jacobs: 1
+
+wedding:
+Total uses: 11
+sam: 0
+jeremy jacobs: 2
+a ben work: 4
+a alison jacobs: 4
+alana jacobs: 1
+
+scotland:
+Total uses: 3
+sam: 1
+jeremy jacobs: 1
+a ben work: 0
+a alison jacobs: 1
+alana jacobs: 0
+
+uk:
+Total uses: 3
+sam: 0
+jeremy jacobs: 0
+a ben work: 2
+a alison jacobs: 1
+alana jacobs: 0
+
+london:
+Total uses: 9
+sam: 2
+jeremy jacobs: 1
+a ben work: 0
+a alison jacobs: 5
+alana jacobs: 1
+
+sara:
+Total uses: 3
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 3
+alana jacobs: 0
+
+lauren:
+Total uses: 1
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 1
+alana jacobs: 0
+
+marc:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+charles:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+michelle:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+nyall:
+Total uses: 7
+sam: 1
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 5
+alana jacobs: 1
+
+bunnings:
+Total uses: 2
+sam: 1
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 1
+alana jacobs: 0
+
+butt:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+bummer:
+Total uses: 1
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 1
+
+bum:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+raise:
+Total uses: 3
+sam: 0
+jeremy jacobs: 0
+a ben work: 2
+a alison jacobs: 0
+alana jacobs: 1
+
+money:
+Total uses: 7
+sam: 0
+jeremy jacobs: 1
+a ben work: 1
+a alison jacobs: 2
+alana jacobs: 3
+
+salary:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+wfh:
+Total uses: 3
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 3
+alana jacobs: 0
+
+city:
+Total uses: 6
+sam: 0
+jeremy jacobs: 1
+a ben work: 2
+a alison jacobs: 2
+alana jacobs: 1
+
+cbd:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+space:
+Total uses: 1
+sam: 0
+jeremy jacobs: 0
+a ben work: 1
+a alison jacobs: 0
+alana jacobs: 0
+
+tall:
+Total uses: 2
+sam: 0
+jeremy jacobs: 1
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 1
+
+short:
+Total uses: 1
+sam: 0
+jeremy jacobs: 1
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+fat:
+Total uses: 1
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 1
+alana jacobs: 0
+
+thin:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+sorry:
+Total uses: 10
+sam: 3
+jeremy jacobs: 0
+a ben work: 2
+a alison jacobs: 2
+alana jacobs: 3
+
+dumb:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+legal:
+Total uses: 1
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 1
+
+sick:
+Total uses: 1
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 1
+
+migraine:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+headache:
+Total uses: 0
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 0
+alana jacobs: 0
+
+rosemary:
+Total uses: 9
+sam: 0
+jeremy jacobs: 0
+a ben work: 0
+a alison jacobs: 1
+alana jacobs: 8
+
+happy:
+Total uses: 29
+sam: 7
+jeremy jacobs: 3
+a ben work: 6
+a alison jacobs: 4
+alana jacobs: 9
 

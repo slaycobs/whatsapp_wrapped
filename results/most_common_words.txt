@@ -21,6 +21,7 @@ was: 131
 have: 131
 that: 130
 we: 125
+ben: 116
 my: 116
 are: 110
 not: 110
@@ -31,21 +32,20 @@ me: 90
 will: 89
 as: 85
 they: 83
-ben: 81
 its: 80
 just: 79
 all: 79
 from: 76
 she: 76
 what: 75
+dad: 72
 no: 71
 im: 70
 good: 69
 go: 64
 up: 64
-lani: 62
+lani: 63
 out: 62
-dad: 60
 dont: 59
 great: 57
 her: 57
@@ -58,14 +58,15 @@ an: 54
 he: 54
 do: 53
 one: 52
+sam: 52
 there: 51
 see: 49
 has: 47
-sam: 46
 were: 46
 ill: 45
 yes: 44
 how: 43
+mum: 43
 about: 43
 now: 42
 work: 42
@@ -82,7 +83,6 @@ thats: 37
 too: 37
 by: 35
 then: 35
-mum: 34
 when: 34
 need: 34
 well: 33
@@ -147,7 +147,6 @@ before: 22
 first: 22
 year: 21
 fam: 21
-benassy: 21
 big: 21
 2: 21
 aldi: 21
@@ -210,7 +209,6 @@ people: 14
 because: 14
 pls: 14
 nah: 14
-benas: 14
 pay: 14
 early: 14
 photos: 13
@@ -240,7 +238,6 @@ check: 12
 isnt: 12
 guy: 12
 call: 12
-jj: 12
 I: 12
 option: 12
 seen: 12
@@ -453,7 +450,6 @@ knew: 6
 correct: 6
 read: 6
 floor: 6
-ali: 6
 yesterday: 6
 children: 6
 real: 6
@@ -708,7 +704,6 @@ superb: 4
 black: 4
 Heathrow: 4
 less: 4
-sambo: 4
 game: 4
 longer: 4
 backpay: 4
@@ -1081,7 +1076,6 @@ shoes: 3
 breaded: 3
 italian: 3
 fiddlers: 3
-alison: 3
 choice: 3
 tea: 3
 locked: 3
@@ -1459,7 +1453,6 @@ sides: 2
 noting: 2
 accusing: 2
 sharks: 2
-wu: 2
 eaten: 2
 fan: 2
 dead: 2
@@ -3408,7 +3401,6 @@ banker: 1
 receptionist: 1
 banking: 1
 spent: 1
-alana: 1
 litigation: 1
 monster: 1
 reasonable: 1

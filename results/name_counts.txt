@@ -1,5 +1,5 @@
-ben: 81
-lani: 62
-sam: 46
-dad: 60
-mum: 34
+ben: 116
+lani: 63
+sam: 52
+dad: 72
+mum: 43

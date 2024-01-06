@@ -1,7 +1,7 @@
 from ChatStats import ChatStats
 from typing import Dict, List
 from pprint import pprint as pp
-from collections import defaultdict
+from collections import defaultdict, OrderedDict
 
 
 class StatsPrinter:
@@ -16,8 +16,11 @@ class StatsPrinter:
         self.write_dict_to_file(self.chat_stats.sender_word_count, "results/sender_word_count.txt")
         self.write_dict_to_file(self.chat_stats.sender_message_count, "results/sender_message_count.txt")
         self.write_dict_to_file(self.chat_stats.sender_media_count, "results/sender_media_count.txt")
+        self.write_dict_to_file(self.chat_stats.sender_url_count, "results/sender_url_count.txt")
+        self.write_dict_to_file(self.chat_stats.emoji_count, "results/emoji_count.txt")
         self.specific_word_stats()
         self.name_counts()
+        self.word_usage_per_sender()
 
     def output(self, title: str, contents: any): 
         print(title)
@@ -56,8 +59,17 @@ class StatsPrinter:
                 fp.write(f"{word}:\n")
                 fp.write(f"Total uses: {self.chat_stats.words[word]}\n")
                 for sender in self.senders:
-                    fp.write(f"{sender}: {self.chat_stats.wordsender_count[sender + word]}\n")
+                    word_sender = f"{sender}:{word}"
+                    fp.write(f"{sender}: {self.chat_stats.wordsender_count[word_sender]}\n")
                 fp.write("\n")
+
+    def word_usage_per_sender(self):
+        od = sorted(self.chat_stats.wordsender_count.items(), key=lambda item: item[1])
+        # od = OrderedDict(sorted(self.chat_stats.wordsender_count.items()))
+        with open("results/word_usage_per_sender.txt", "w") as fp:
+            for word_sender, num in od:
+                # sender, word = word_sender.split(":")
+                fp.write(f"{word_sender}: {num}\n")
 
     def name_counts(self):
         with open("results/name_counts.txt", "w") as fp:
